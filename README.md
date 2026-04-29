@@ -1,16 +1,65 @@
-## Hi there 👋
+.# Hi there 👋, I'm [Aisha Shehu Zubairu ]
 
-<!--
-**aiyshasz/aiyshasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I’m passionate about turning raw data into meaningful insights.
+Currently building my skills in data analysis and visualization, and working on real-world projects to grow my portfolio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🚀 About Me
+
+* 🌱 I’m currently learning **Data Analysis (Excel, SQL, Python)**
+* 📊 Interested in **data visualization and business insights**
+* 💡 I enjoy solving problems using data
+* 📈 Goal: Become a professional Data Analyst
+
+---
+
+## 🛠️ Skills & Tools
+
+* **Data Analysis:** Excel, SQL (Beginner)
+* **Programming:** Python (Pandas, NumPy)
+* **Data Visualization:** Power BI / Tableau (Learning)
+* **Other:** Problem-solving, Critical thinking
+
+---
+
+## 📂 Projects
+
+Here are some of the projects I’m working on:
+
+* 📊 **Sales Data Analysis**
+  Analyzed sales trends and created insights using Excel/Python
+
+* 📈 **Customer Data Exploration**
+  Explored customer behavior and patterns
+
+*(More projects coming soon...)*
+
+---
+
+## 📚 Currently Learning
+
+* Advanced Excel techniques
+* SQL for data querying
+* Python for data analysis
+* Data visualization tools
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/aisha-shehu-776832235?trk=contact-info
+* Email: ayshashehu135@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy discovering hidden patterns in data and turning them into actionable insights.
+
+---
+
+⭐️ *This profile will be updated as I continue learning and building projects.*..
 -->
