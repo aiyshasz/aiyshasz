@@ -29,11 +29,7 @@ Currently building my skills in data analysis and visualization, and working on 
 
 Here are some of the projects I’m working on:
 
-* 📊 **Sales Data Analysis**
-  Analyzed sales trends and created insights using Excel/Python
-
-* 📈 **Customer Data Exploration**
-  Explored customer behavior and patterns
+Gender Gap in Technology Participation in Northern Nigeria
 
 *(More projects coming soon...)*
 
